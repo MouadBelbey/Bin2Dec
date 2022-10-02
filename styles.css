@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    padding-top: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 100px auto 100px auto;
+    padding: 50px;
+}
